@@ -1,0 +1,27 @@
+.red-tag {
+  color: red;
+}
+
+.row,
+.column {
+  border: solid 1px;
+}
+.column {
+  float: left;
+  width: 49%;
+}
+.table,
+.row {
+  width: 100%;
+}
+
+.my-own-style {
+  color: blue;
+  font: lighter;
+}
+.testing-styles {
+  color: cyan;
+  background: url("test.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
